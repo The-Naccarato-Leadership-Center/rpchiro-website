@@ -1,0 +1,228 @@
+/*This is for the drop down menu*/
+
+@media (min-width: 992px) {
+  .animate {
+    animation-duration: 0.3s;
+    -webkit-animation-duration: 0.3s;
+    animation-fill-mode: both;
+    -webkit-animation-fill-mode: both;
+  }
+}
+
+@keyframes slideIn {
+  0% {
+    transform: translateY(1rem);
+    opacity: 0;
+  }
+  100% {
+    transform:translateY(0rem);
+    opacity: 1;
+  }
+  0% {
+    transform: translateY(1rem);
+    opacity: 0;
+  }
+}
+
+@-webkit-keyframes slideIn {
+  0% {
+    -webkit-transform: transform;
+    -webkit-opacity: 0;
+  }
+  100% {
+    -webkit-transform: translateY(0);
+    -webkit-opacity: 1;
+  }
+  0% {
+    -webkit-transform: translateY(1rem);
+    -webkit-opacity: 0;
+  }
+}
+
+.slideIn {
+  -webkit-animation-name: slideIn;
+  animation-name: slideIn;
+}
+
+
+.dropdown-menu li:hover .sub-menu {
+  visibility: visible;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+
+/*This is for hero images*/
+.hero-image {
+  height: 300px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+.hero-subtext {
+  text-align: center;
+  position: relative;
+  top: 65%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+@media screen and (min-width: 601px) {
+  .hero-text {
+    font-size: 50px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .hero-text {
+    font-size: 33px;
+  }
+}
+
+.mainContent {
+  margin-top: 25px;
+}
+
+@media screen and (min-width: 601px) {
+  .mainContent {
+    
+  margin-left: 100px;
+  margin-right: 100px;
+  }
+
+}
+
+@media screen and (max-width: 600px) {
+  .mainContent {
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+}
+
+@media screen and (min-width: 601px) {
+  .frontTitle {
+    font-size: 30px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .frontTitle {
+    font-size: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+}
+
+.centerList {
+  text-align: center;
+  list-style-position: inside;
+}
+
+.pageImg {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+/*This is for the countdown clock*/
+
+#clockdiv{
+  font-family: sans-serif;
+  color: #fff;
+  display: inline-block;
+  font-weight: 100;
+  text-align: center;
+  font-size: 30px;
+}
+
+#clockdiv > div{
+  padding: 10px;
+  border-radius: 3px;
+  background: #0f3357;
+  display: inline-block;
+}
+
+#clockdiv div > span{
+  padding: 15px;
+  border-radius: 3px;
+  background: #091f36;
+  display: inline-block;
+}
+
+.smalltext{
+  padding-top: 5px;
+  font-size: 16px;
+}
+
+/* This is the pop out boxes for forms */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+.modal-content {
+  background-color: #fefefe;
+  margin: 15% auto; 
+  padding: 20px;
+  border: 1px solid #888;
+  width: 35%; 
+}
+
+@media screen and (min-width: 601px) {
+  .modal-content {
+    width: 35%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .modal-content {
+    width: 80%;
+  }
+}
+
+/* The Close Button */
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 600px) {
+  .sideimage {
+    display: none;
+  }
+
+
+  
+  
