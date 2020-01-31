@@ -53,6 +53,12 @@
   display: block;
 }
 
+/*This is for landing page signup box*/
+.features-icons {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #164a7d;
+ }
 
 /*This is for hero images*/
 .hero-image {
