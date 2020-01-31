@@ -40,6 +40,8 @@ header.masthead {
   padding-bottom: 8rem;
 }
 
+
+
 header.masthead .overlay {
   position: absolute;
   background-color: #211C1B;
@@ -53,6 +55,15 @@ header.masthead .overlay {
 header.masthead h1 {
   font-size: 2rem;
 }
+
+/* FIXME TO NOT HAVE OPACITY */
+header.masthead .overlay img {
+  opacity: 1;
+}
+
+
+
+
 
 @media (min-width: 768px) {
   header.masthead {
