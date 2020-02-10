@@ -1,6 +1,6 @@
 /*This is for the drop down menu*/
 
-@media (min-width: 992px) {
+@media only screen and (min-width: 992px) {
   .animate {
     animation-duration: 0.3s;
     -webkit-animation-duration: 0.3s;
@@ -44,14 +44,14 @@
   animation-name: slideIn;
 }
 
-
 .dropdown-menu li:hover .sub-menu {
-  visibility: visible;
+visibility: visible;
 }
 
 .dropdown:hover .dropdown-menu {
   display: block;
 }
+
 
 /*This is for landing page signup box*/
 .features-icons {
