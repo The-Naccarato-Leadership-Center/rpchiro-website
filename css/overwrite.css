@@ -1,3 +1,14 @@
+html,
+body {
+  height: 100%;
+  background-color: #333;
+}
+
+body, footer {
+  color: #fff;
+  text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
+}
+
 /*This is for the drop down menu*/
 
 @media only screen and (min-width: 992px) {
@@ -52,6 +63,10 @@ visibility: visible;
   display: block;
 }
 
+/*This is to flush Jim's picture to the side of the page*/
+#jimFlush {
+  margin-right: -18px;
+}
 
 /*This is for landing page signup box*/
 .features-icons {
@@ -228,7 +243,3 @@ visibility: visible;
   .sideimage {
     display: none;
   }
-
-
-  
-  
