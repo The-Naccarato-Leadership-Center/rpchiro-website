@@ -1,6 +1,17 @@
+html,
+body {
+  height: 100%;
+  background-color: #333;
+}
+
+body, footer {
+  color: #fff;
+  text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
+}
+
 /*This is for the drop down menu*/
 
-@media (min-width: 992px) {
+@media only screen and (min-width: 992px) {
   .animate {
     animation-duration: 0.3s;
     -webkit-animation-duration: 0.3s;
@@ -44,15 +55,25 @@
   animation-name: slideIn;
 }
 
-
 .dropdown-menu li:hover .sub-menu {
-  visibility: visible;
+visibility: visible;
 }
 
 .dropdown:hover .dropdown-menu {
   display: block;
 }
 
+/*This is to flush Jim's picture to the side of the page*/
+#jimFlush {
+  margin-right: -18px;
+}
+
+/*This is for landing page signup box*/
+.features-icons {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #164a7d;
+ }
 
 /*This is for hero images*/
 .hero-image {
@@ -222,7 +243,3 @@
   .sideimage {
     display: none;
   }
-
-
-  
-  
