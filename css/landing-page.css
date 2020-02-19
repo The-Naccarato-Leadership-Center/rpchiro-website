@@ -21,23 +21,15 @@ h6 {
 header.masthead {
   position: relative;
   background-color: #343a40;
-  background: url("../img/Handsopenidea.jpg") no-repeat center center;
+  /*background: url("../img/Handsopenidea.jpg") no-repeat center center;*/
+  background: url("../img/landing.png") no-repeat center center;
   background-size: cover;
 
 
-
-/*Test comment for git*/
-
-
-  /*This is the experimental Dr. Jim Cover Image*/
-  /*background: url("../img/jim1Transparent.png") no-repeat right center url("../img/Handsopenidea.jpg") no-repeat center center;
-  /*background: url("../img/jim1.png") no-repeat right center, url("../img/SuccessTeaching.jpg") no-repeat center;*/
-  /*background-color: #060506;
-  /*background-size: contain, cover;*/
-
-
+/*
   padding-top: 8rem;
   padding-bottom: 8rem;
+*/
 }
 
 
