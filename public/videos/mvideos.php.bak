@@ -1,0 +1,50 @@
+<? include("../includes/template/header.inc.php");?>
+
+    <tr>
+    <td width="272" height="474" valign="top">
+
+	<table width="100%" height="100%" border="0" cellpadding="2" cellspacing="5" bgcolor="navy" class="leftbox">
+        <tr>
+
+          <td width="273" height="991" valign="top" class="navigation" align="center"><br>
+              <img src="../images/jim2.png" width="180 px"><br>
+              <br>
+
+			 
+
+				
+				<div class="testimonials">I have been working with Dr. Naccarato for over a year and he is unlike any coach I have ever had. His program and philosophies are solid, sound and grounded. They&rsquo;re tested and proven to work. He is a student of success and a teacher of the principles that lead there. His psychological approach is science, not speculation. Since working with Jim I have seen a significant and measureable increase, not only in my practice results, but in my focus and overall joy in what matters most in life.<br><b>--Robert Shire DC</b>
+
+
+				<br>
+			</div>
+      </td>
+        </tr>
+    </table>
+    <td width="499" valign="top" align="justify">
+	<h1>Videos</h1>
+	
+<table width="100%" height="100%" border="0" cellpadding="2" cellspacing="5">
+	  <tr>
+	   <td align="center">
+	  <iframe width="490" height="275" src="https://www.youtube.com/embed/JILjVx1tS5E" frameborder="0" allowfullscreen></iframe>
+	   </td>
+	  </tr>
+</table>	
+	
+	 <div class="text">
+	 Click the links below to view more principles of success by Dr. Naccarato.
+	 
+	 <p>
+	 <? include("../includes/template/v_index.inc.php");?>
+</div>
+	 </td>
+
+</table>
+
+<? include("../includes/template/footer.inc.php");?>
+
+
+
+</body>
+</html>

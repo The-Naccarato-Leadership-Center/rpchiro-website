@@ -1,0 +1,3 @@
+[31-Mar-2017 15:52:40 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home3/drjimcon/public_html/rpchiro/account/global_settings.php on line 2
+[31-Mar-2017 15:55:40 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home3/drjimcon/public_html/rpchiro/account/global_settings.php on line 2
+[31-Mar-2017 15:55:57 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home3/drjimcon/public_html/rpchiro/account/global_settings.php on line 2

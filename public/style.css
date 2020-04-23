@@ -1,0 +1,269 @@
+/***********************************************/
+/* emx_nav_left.css                            */
+/* Use with template Halo_leftNav.html         */
+/***********************************************/
+
+/***********************************************/
+/* HTML tag styles                             */
+/***********************************************/
+
+/leftbox background: #000080;/
+
+body{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #ffffff;
+	line-height: 1.166;	
+	margin: 0px;
+	padding: 0px;
+	/*background: #FFFFFF url("/images/background.gif") repeat;*/ 
+}
+
+
+.flashbox {
+	border-top: thin solid #405679;
+	border-right: thin none #405679;
+	border-bottom: thin solid #405679;
+	border-left: thin none #405679;
+	background: #FFFFFF;
+	
+}
+.leftbox {
+        /*background: #1F005C;*/ 
+        background: #0f1138; /*Cal Bear Color*/ 
+        border-right-width: thin;
+	border-right-style: solid;
+	border-right-color: #27354b;
+}
+.outer {
+	border: thin solid #000000;
+	box-shadow: 0 0 15px 6px #394D6C;
+}
+.foot {
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-style: solid;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: #000000;
+	color:#0099FF;
+}
+.upperleft {
+	background: #FFFFFF;
+	background-image: url(images/title.gif);
+}
+.upperright {
+	background: #FFFFFF;
+	background-image: url(images/email.gif);
+}
+.toplink {
+	font-family: Georgia, serif;
+	color: #FFFFFF;
+	font-size: 20px; 
+	text-decoration: none;
+}
+.toplink:hover {
+	font-family: Georgia, serif;
+	color: #2E2E2E;
+	font-size: 20px; 
+	text-decoration: Underline;
+}
+.text {
+       margin:10px;
+       font-family: Georgia, serif; 
+   	   font-size: 15px; 
+       color: #06143F;
+       text-decoration: none;
+	   text-align:justify     
+}
+.ctext {
+       margin-right:30px;
+       margin-left:30px;
+       font-family: Georgia, serif; 
+   	   font-size: 15px; 
+       color: #06143F;
+   	   font-style:italic;
+       text-decoration: none;
+	   text-align:justify
+}
+.ttext {
+       margin:10px;
+       font-family: "Times New Roman", Times, serif; 
+   	   font-size: 15px; 
+       color: #06143F;
+       text-decoration: none;
+	   text-align:left     
+}
+.disclaimer {
+       margin:10px;
+       font-family: "Times New Roman", Times, serif; 
+   	   font-size: 10px; 
+       color: #06143F;
+       text-decoration: none;
+	   text-align:justify     
+}
+.secnavigation {
+	margin:10px;
+	font-family: "Times New Roman", Times, serif; 
+    font-size: 16px; 
+	color: #FFFFFF;
+	text-decoration: none;
+	line-height: 1.5;
+	font-weight:bold;
+}
+.secnavigation:hover {
+	margin:10px;
+	font-family: "Times New Roman", Times, serif; 
+    font-size: 16px; 
+	color: #FFFFFF;
+	text-decoration:underline;
+	line-height: 1.5;
+	font-weight:bold;
+}
+.testimonials{
+  	margin:10px;
+    font-family: "Times New Roman", Times, serif; 
+   	font-size: 14px; 
+    color: #FFFFFF;
+  	font-weight:normal;
+	font-style:italic;
+}
+.quote{
+	padding-left: 10px;
+    font-family:"Century Gothic";
+   	font-size: 22px; 
+    color: #000000;
+   	text-align:left;
+}
+.new_quote {
+	padding-left: 10px;
+        font-family:"Century Gothic";
+   	font-size: 17px;
+        color: #000000;
+   	text-align:justify;
+}
+.quotename{
+	padding-left: 10px;
+    font-family:"Century Gothic";
+   	font-size: 21px; 
+    color: #001E4C;
+   	text-align:right;
+}
+.quotealign{
+	padding-left: 10px;
+    font-family:"Century Gothic";
+   	font-size: 18px; 
+    color: #001E4C;
+   	text-align:right;
+}
+.navigation {
+	margin:10px;
+	font-family: "Times New Roman", Times, serif; 
+    font-size: 15px; 
+	color: #FFFFFF;
+	text-decoration: underline;
+	line-height: 1.5;
+	font-weight:bold;
+}
+.sidebartext {
+	margin:10px;
+	font-family: "Times New Roman", Times, serif; 
+    font-size: 15px; 
+	color: #FFFFFF;
+	text-decoration: none;
+	line-height: 1.5;
+	font-weight:bold;
+}
+.navigation:hover {
+	margin:10px;
+	font-family: "Times New Roman", Times, serif; 
+    font-size: 15px; 
+	color: #FFFFFF;
+	/*text-decoration:underline;*/
+	line-height: 1.5;
+	font-weight:bold;
+}
+.navtext {
+	
+	font-family: "Times New Roman", Times, serif; 
+    font-size: 11px; 
+	color: #E6E5D0;
+	text-decoration: none;
+}
+.copyright {
+	margin:10px;
+	font-family: "Times New Roman", Times, serif; 
+    font-size: 12px; 
+	color: #001E4C;
+	text-decoration: none;
+	line-height: 1.5;
+}
+h1{
+	margin:10px;
+	font-family: "Times New Roman", Times, serif; 
+    font-size: 20px; 
+	color: #A98C4B;
+	text-decoration: none;
+	line-height: 1.5;
+	font-weight:bold;
+}
+.links{
+  	font-family: "Times New Roman", Times, serif; 
+   	font-size: 15px; 
+    color: #003C96;
+    text-decoration: underline;
+	font-weight:bold;
+	
+}
+.links:hover{
+  	font-family: "Times New Roman", Times, serif; 
+   	font-size: 15px; 
+    color: #A98C4B;
+    text-decoration: underline;
+	font-weight:bold;
+	
+}
+
+h2{
+	margin:10px;
+	font-family: Georgia, serif; 
+    font-size: 15px; 
+	color: #001E4C;
+	text-decoration: none;
+	font-weight:bold;
+}
+.tlinks{
+  	margin:10px;
+    font-family: "Times New Roman", Times, serif; 
+   	font-size: 15px; 
+    color: #003C96;
+    text-decoration: underline;
+	font-weight:bold;
+}
+.tlinks:hover{
+  	font-family: "Times New Roman", Times, serif; 
+   	font-size: 15px; 
+    color: #A98C4B;
+    text-decoration: underline;
+	font-weight:bold;
+	
+}
+table.topnav{
+	background-image: url(https://www.rpchiro.com/images/navbar.png);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+table.topnav a:link{
+	font-family: Georgia, serif;
+	color: #FFFFFF;
+	font-size: 20px; 
+	text-decoration: none;
+}
+table.topnav a:hover{
+	font-family: Georgia, serif;
+	color: #2E2E2E;
+	font-size: 20px; 
+	text-decoration: Underline;
+}

@@ -1,0 +1,199 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-128440945-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-128440945-1');
+</script>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="keywords" content="jim naccarato, doctors, chiropractors,  dc, personal coaching, seminars, chiropractic, coaching, personal coach, consulting, business, weekly email tip, self-directed coaching, the realigned practice, naccarato leadership center, practice building program, practice management, provo ut, south lake tahoe ca, Dr. Jim Naccarato DC, Dr. Jim Naccarato DC, PhD, Jim Naccarato DC, Jim Naccarato DC - PhD, Dr. Naccarato, Dr. Jim Naccarato, Chiropractic consulting, Chiropractic practice building, Chiropractic practice management, Consulting for chiropractors, Practice management for chiropractors, Practice building coach, Practice building consultant, Success coach, Success consultant, Life coach, RP, NLC">
+<meta name="description" content="Dr. Jim Naccarato is a personal coach for doctors.  He also has a self-directed coaching program, sends out a Weekly Practice-Building Email Tip, and teaches seminars throughout the United States.">
+<META name="location" content="US, UT, CA, South Lake Tahoe, Provo">
+<META name="author" content="Jim Naccarato">
+<title>Dr. Jim Naccarato - The Realigned Practice</title>
+<link href="style.css" rel="stylesheet" type="text/css">
+<!--
+<style>
+  body {background: transparent url(images/brown_tile.png) repeat scroll left top;}
+</style>
+-->
+<style>
+  body {background-color: #808B96;}
+</style>
+
+<!-- fancybox -->
+<!-- Add jQuery library -->
+<script type="text/javascript" src="https://code.jquery.com/jquery-latest.min.js"></script>
+
+<!-- Add mousewheel plugin (this is optional) -->
+<script type="text/javascript" src="fancybox/lib/jquery.mousewheel-3.0.6.pack.js"></script>
+
+<!-- Add fancyBox -->
+<link rel="stylesheet" href="fancybox/source/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
+<script type="text/javascript" src="fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+
+<!-- Optionally add helpers - button, thumbnail and/or media -->
+<link rel="stylesheet" href="fancybox/source/helpers/jquery.fancybox-buttons.css?v=1.0.5" type="text/css" media="screen" />
+<script type="text/javascript" src="fancybox/source/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>
+<script type="text/javascript" src="fancybox/source/helpers/jquery.fancybox-media.js?v=1.0.6"></script>
+
+<link rel="stylesheet" href="fancybox/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7" type="text/css" media="screen" />
+<script type="text/javascript" src="fancybox/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
+
+<script type="text/javascript">
+	$(document).ready(function() {
+		$(".fancybox").fancybox();
+	});
+</script>
+
+<script>window.twttr = (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0],
+    t = window.twttr || {};
+  if (d.getElementById(id)) return t;
+  js = d.createElement(s);
+  js.id = id;
+  js.src = "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+
+  t._e = [];
+  t.ready = function(f) {
+    t._e.push(f);
+  };
+
+  return t;
+}(document, "script", "twitter-wjs"));</script>
+</head>
+
+<body>
+
+<table width="777" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" class="outer">
+
+  <tr>
+    <td height="80" colspan="2" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td width="401" height="80" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" class="upperleft">
+              <!--DWLayoutTable-->
+              <tr>
+                <td width="401" height="80">&nbsp;</td>
+              </tr>
+          </table></td>
+          <td width="371" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" >
+            <tr>
+              <td height="80" align="center"><a href="coaching/session.php"><img src="images/ICS_button.png" border="0" height="48%"></a></td>
+			  <td height="60">
+			    <table>
+			      <tr>
+				    <td>					  
+			          <div id="facebook like" style="width:50px; overflow:hidden;"><iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FJim-Naccarato-DC-PhD-538267742882932%2F&width=450&layout=standard&action=like&size=small&show_faces=true&share=false&height=80&appId" width="450" height="25" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe></div>
+			        </td>
+				  </tr>
+				  <tr>
+					<td align="left">
+					  <a href="https://twitter.com/dr_jimnaccarato" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @DrJimNac</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+					</td>
+				  </tr>
+				</table>
+			   </td>
+            </tr>
+          </table></td>
+        </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td height="100" colspan="2" valign="top"><table bgcolor="F0F0E2" width="100%" height="240" border="0" cellpadding="2 px" cellspacing="2 px" class="flashbox">
+        <tr bgcolor="F0F0E2">
+          <td bgcolor="F0F0E2" width="182" height="200" align="center"><img src="images/jim1.png" height="235" align="center"></td>
+		  <td bgcolor="F0F0E2" align="center"><img src="images/quote.png" height="90%"></td>
+
+        </tr>
+    </table>
+
+	<? include("includes/template/bar.inc.php");?>
+
+  <tr>
+    <td width="272" height="474" valign="top">
+
+	<table width="100%" height="791" border="0" cellpadding="2" cellspacing="5" class="leftbox">
+	       <tr>
+
+        <td width="273" height="781" valign="top" class="sidebartext" align="center">
+          <br>
+		 <br>
+           <big><strong>Real Coaching,<br>
+           For Real Doctors,<br>
+           Building Real Practices!</strong></big>
+           	 <br>
+           	 <br>
+		 
+		 <div class="testimonials">
+	        	&quot;I have been with Jim for over two decades and have reached most of my goals; all this with honesty, dignity and moral integrity.
+        	        I have more freedom, peace and happiness as well as a much more stable practice and relationship with my wife and family&quot;
+			<br>
+			--<b>Dennis Harding DC, BCAO</b>
+
+			
+			<br>
+			<br>
+			<br>
+			&quot;I spent close to $100,000 with various practice management organizations before I found Dr. Naccarato.
+			I knew a successful practice had more to do with honesty and integrity than patient pressure, memorized scripts, or a multitude of other
+			gimmicks. I wish I would have met him a lot sooner.&quot;
+			<br>
+			-- <b>Mark Lafferty DC, PhD</b>
+			</div>
+			  <br>
+
+                 </tr>
+    </table>
+    <td width="499" valign="top" align="justify">
+
+    <div class="text" style="font-size: 20px; margin-left: 30px;">
+	Do you want:
+    </div>
+    <div class="text">
+
+      <UL style="list-style-image: url(https://www.rpchiro.com/images/coaching/s_square.png);">
+<LI>Less Stress</LI>
+<LI>More Income</LI>
+<LI>More Free Time</LI>
+<LI>More New Patients</LI>
+<LI>More Patient Visits</LI>
+<LI>Increased Services</LI>
+<LI>Increased Collections</LI>
+</UL>
+</div>
+<div class="text" style="font-size: 20px; margin-left: 30px;">
+	If you checked <img src="images/check.jpeg" height="15px"> yes to any of the above,<br> then you need Dr. Naccarato as your coach!
+    </div>
+<div class="text">
+Doctors nationwide have applied Dr. Naccarato&rsquo;s program and have built successful practices full of patients who stay, pay, and refer. You can do the same by implementing the principles and procedures found in this <b>credible</b>, <b>practical</b>, and <b>personal</b> coaching program.
+<p>
+<b>Credible:</b> Dr. Naccarato is a Doctor of Chiropractic with a PhD in Psychology and over 28 years and 56,000 hours of experience personally coaching over 80 doctors each week.
+<p>
+<b>Practical:</b> There are no gimmicks and no quick fixes. Dr. Naccarato has created a unique program that guides doctors step by step to build a successful practice while maintaining their integrity and dignity.
+<p>
+<b>Personal:</b> The only success strategy that really works to bring you lasting success and prosperity is an approach customized to fit you. In this program we honor this truth.
+<p>
+For our contact information or to set up an appointment to speak with Dr. Naccarato click here. <a href="/contactus/contactus.php"><img src="/images/contactus.png" height="23" align="middle"></a>
+</div>
+
+    </td>
+
+</table>
+
+
+
+<? include("includes/template/footer.inc.php");?>
+
+</body>
+</html>

@@ -1,0 +1,1 @@
+[03-Apr-2017 10:06:07 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home3/drjimcon/public_html/rpchiro/includes/template/header.inc.php on line 2

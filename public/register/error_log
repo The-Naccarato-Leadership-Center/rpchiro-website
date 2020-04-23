@@ -1,0 +1,374 @@
+[06-Mar-2017 14:53:32 America/Denver] PHP Notice:  Use of undefined constant fname - assumed 'fname' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 23
+[06-Mar-2017 14:53:32 America/Denver] PHP Notice:  Undefined index: fname in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 23
+[06-Mar-2017 14:53:32 America/Denver] PHP Notice:  Use of undefined constant email - assumed 'email' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 24
+[06-Mar-2017 14:53:32 America/Denver] PHP Notice:  Undefined index: email in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 24
+[06-Mar-2017 14:53:32 America/Denver] PHP Notice:  Use of undefined constant phone - assumed 'phone' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 26
+[06-Mar-2017 14:53:32 America/Denver] PHP Notice:  Undefined index: phone in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 26
+[06-Mar-2017 14:53:32 America/Denver] PHP Notice:  Use of undefined constant address - assumed 'address' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 27
+[06-Mar-2017 14:53:32 America/Denver] PHP Notice:  Undefined index: address in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 27
+[06-Mar-2017 14:53:32 America/Denver] PHP Notice:  Use of undefined constant address2 - assumed 'address2' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 28
+[06-Mar-2017 14:53:32 America/Denver] PHP Notice:  Undefined index: address2 in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 28
+[06-Mar-2017 14:53:32 America/Denver] PHP Notice:  Use of undefined constant attendees - assumed 'attendees' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 29
+[06-Mar-2017 14:53:32 America/Denver] PHP Notice:  Undefined index: attendees in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 29
+[06-Mar-2017 14:53:32 America/Denver] PHP Notice:  Use of undefined constant ccamember - assumed 'ccamember' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 30
+[06-Mar-2017 14:53:32 America/Denver] PHP Notice:  Undefined index: ccamember in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 30
+[06-Mar-2017 20:46:28 America/Denver] PHP Notice:  Use of undefined constant fname - assumed 'fname' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 23
+[06-Mar-2017 20:46:28 America/Denver] PHP Notice:  Undefined index: fname in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 23
+[06-Mar-2017 20:46:28 America/Denver] PHP Notice:  Use of undefined constant email - assumed 'email' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 24
+[06-Mar-2017 20:46:28 America/Denver] PHP Notice:  Undefined index: email in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 24
+[06-Mar-2017 20:46:28 America/Denver] PHP Notice:  Use of undefined constant phone - assumed 'phone' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 26
+[06-Mar-2017 20:46:28 America/Denver] PHP Notice:  Undefined index: phone in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 26
+[06-Mar-2017 20:46:28 America/Denver] PHP Notice:  Use of undefined constant address - assumed 'address' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 27
+[06-Mar-2017 20:46:28 America/Denver] PHP Notice:  Undefined index: address in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 27
+[06-Mar-2017 20:46:28 America/Denver] PHP Notice:  Use of undefined constant address2 - assumed 'address2' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 28
+[06-Mar-2017 20:46:28 America/Denver] PHP Notice:  Undefined index: address2 in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 28
+[06-Mar-2017 20:46:28 America/Denver] PHP Notice:  Use of undefined constant attendees - assumed 'attendees' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 29
+[06-Mar-2017 20:46:28 America/Denver] PHP Notice:  Undefined index: attendees in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 29
+[06-Mar-2017 20:46:28 America/Denver] PHP Notice:  Use of undefined constant ccamember - assumed 'ccamember' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 30
+[06-Mar-2017 20:46:28 America/Denver] PHP Notice:  Undefined index: ccamember in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 30
+[07-Mar-2017 05:01:20 America/Denver] PHP Notice:  Use of undefined constant fname - assumed 'fname' in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 23
+[07-Mar-2017 05:01:20 America/Denver] PHP Notice:  Undefined index: fname in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 23
+[07-Mar-2017 05:01:20 America/Denver] PHP Notice:  Use of undefined constant email - assumed 'email' in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 24
+[07-Mar-2017 05:01:20 America/Denver] PHP Notice:  Undefined index: email in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 24
+[07-Mar-2017 05:01:20 America/Denver] PHP Notice:  Use of undefined constant phone - assumed 'phone' in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 26
+[07-Mar-2017 05:01:20 America/Denver] PHP Notice:  Undefined index: phone in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 26
+[07-Mar-2017 05:01:20 America/Denver] PHP Notice:  Use of undefined constant address - assumed 'address' in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 27
+[07-Mar-2017 05:01:20 America/Denver] PHP Notice:  Undefined index: address in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 27
+[07-Mar-2017 05:01:20 America/Denver] PHP Notice:  Use of undefined constant address2 - assumed 'address2' in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 28
+[07-Mar-2017 05:01:20 America/Denver] PHP Notice:  Undefined index: address2 in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 28
+[07-Mar-2017 05:01:20 America/Denver] PHP Notice:  Use of undefined constant attendees - assumed 'attendees' in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 29
+[07-Mar-2017 05:01:20 America/Denver] PHP Notice:  Undefined index: attendees in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 29
+[07-Mar-2017 05:01:20 America/Denver] PHP Notice:  Use of undefined constant ccamember - assumed 'ccamember' in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 30
+[07-Mar-2017 05:01:20 America/Denver] PHP Notice:  Undefined index: ccamember in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 30
+[07-Mar-2017 16:08:02 America/Denver] PHP Notice:  Use of undefined constant fname - assumed 'fname' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 23
+[07-Mar-2017 16:08:02 America/Denver] PHP Notice:  Undefined index: fname in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 23
+[07-Mar-2017 16:08:02 America/Denver] PHP Notice:  Use of undefined constant email - assumed 'email' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 24
+[07-Mar-2017 16:08:02 America/Denver] PHP Notice:  Undefined index: email in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 24
+[07-Mar-2017 16:08:02 America/Denver] PHP Notice:  Use of undefined constant phone - assumed 'phone' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 26
+[07-Mar-2017 16:08:02 America/Denver] PHP Notice:  Undefined index: phone in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 26
+[07-Mar-2017 16:08:02 America/Denver] PHP Notice:  Use of undefined constant address - assumed 'address' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 27
+[07-Mar-2017 16:08:02 America/Denver] PHP Notice:  Undefined index: address in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 27
+[07-Mar-2017 16:08:02 America/Denver] PHP Notice:  Use of undefined constant address2 - assumed 'address2' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 28
+[07-Mar-2017 16:08:02 America/Denver] PHP Notice:  Undefined index: address2 in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 28
+[07-Mar-2017 16:08:02 America/Denver] PHP Notice:  Use of undefined constant attendees - assumed 'attendees' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 29
+[07-Mar-2017 16:08:02 America/Denver] PHP Notice:  Undefined index: attendees in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 29
+[07-Mar-2017 16:08:02 America/Denver] PHP Notice:  Use of undefined constant ccamember - assumed 'ccamember' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 30
+[07-Mar-2017 16:08:02 America/Denver] PHP Notice:  Undefined index: ccamember in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 30
+[07-Mar-2017 16:08:43 America/Denver] PHP Notice:  Use of undefined constant fname - assumed 'fname' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 23
+[07-Mar-2017 16:08:43 America/Denver] PHP Notice:  Undefined index: fname in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 23
+[07-Mar-2017 16:08:43 America/Denver] PHP Notice:  Use of undefined constant email - assumed 'email' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 24
+[07-Mar-2017 16:08:43 America/Denver] PHP Notice:  Use of undefined constant phone - assumed 'phone' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 26
+[07-Mar-2017 16:08:43 America/Denver] PHP Notice:  Undefined index: phone in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 26
+[07-Mar-2017 16:08:43 America/Denver] PHP Notice:  Use of undefined constant address - assumed 'address' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 27
+[07-Mar-2017 16:08:43 America/Denver] PHP Notice:  Undefined index: address in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 27
+[07-Mar-2017 16:08:43 America/Denver] PHP Notice:  Use of undefined constant address2 - assumed 'address2' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 28
+[07-Mar-2017 16:08:43 America/Denver] PHP Notice:  Undefined index: address2 in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 28
+[07-Mar-2017 16:08:43 America/Denver] PHP Notice:  Use of undefined constant attendees - assumed 'attendees' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 29
+[07-Mar-2017 16:08:43 America/Denver] PHP Notice:  Undefined index: attendees in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 29
+[07-Mar-2017 16:08:43 America/Denver] PHP Notice:  Use of undefined constant ccamember - assumed 'ccamember' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 30
+[07-Mar-2017 21:35:51 America/Denver] PHP Notice:  Use of undefined constant fname - assumed 'fname' in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 23
+[07-Mar-2017 21:35:51 America/Denver] PHP Notice:  Undefined index: fname in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 23
+[07-Mar-2017 21:35:51 America/Denver] PHP Notice:  Use of undefined constant email - assumed 'email' in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 24
+[07-Mar-2017 21:35:51 America/Denver] PHP Notice:  Undefined index: email in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 24
+[07-Mar-2017 21:35:51 America/Denver] PHP Notice:  Use of undefined constant phone - assumed 'phone' in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 26
+[07-Mar-2017 21:35:51 America/Denver] PHP Notice:  Undefined index: phone in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 26
+[07-Mar-2017 21:35:51 America/Denver] PHP Notice:  Use of undefined constant address - assumed 'address' in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 27
+[07-Mar-2017 21:35:51 America/Denver] PHP Notice:  Undefined index: address in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 27
+[07-Mar-2017 21:35:51 America/Denver] PHP Notice:  Use of undefined constant address2 - assumed 'address2' in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 28
+[07-Mar-2017 21:35:51 America/Denver] PHP Notice:  Undefined index: address2 in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 28
+[07-Mar-2017 21:35:51 America/Denver] PHP Notice:  Use of undefined constant attendees - assumed 'attendees' in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 29
+[07-Mar-2017 21:35:51 America/Denver] PHP Notice:  Undefined index: attendees in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 29
+[07-Mar-2017 21:35:51 America/Denver] PHP Notice:  Use of undefined constant ccamember - assumed 'ccamember' in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 30
+[07-Mar-2017 21:35:51 America/Denver] PHP Notice:  Undefined index: ccamember in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 30
+[08-Mar-2017 18:43:50 America/Denver] PHP Notice:  Use of undefined constant fname - assumed 'fname' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 23
+[08-Mar-2017 18:43:50 America/Denver] PHP Notice:  Undefined index: fname in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 23
+[08-Mar-2017 18:43:50 America/Denver] PHP Notice:  Use of undefined constant email - assumed 'email' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 24
+[08-Mar-2017 18:43:50 America/Denver] PHP Notice:  Undefined index: email in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 24
+[08-Mar-2017 18:43:50 America/Denver] PHP Notice:  Use of undefined constant phone - assumed 'phone' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 26
+[08-Mar-2017 18:43:50 America/Denver] PHP Notice:  Undefined index: phone in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 26
+[08-Mar-2017 18:43:50 America/Denver] PHP Notice:  Use of undefined constant address - assumed 'address' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 27
+[08-Mar-2017 18:43:50 America/Denver] PHP Notice:  Undefined index: address in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 27
+[08-Mar-2017 18:43:50 America/Denver] PHP Notice:  Use of undefined constant address2 - assumed 'address2' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 28
+[08-Mar-2017 18:43:50 America/Denver] PHP Notice:  Undefined index: address2 in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 28
+[08-Mar-2017 18:43:50 America/Denver] PHP Notice:  Use of undefined constant attendees - assumed 'attendees' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 29
+[08-Mar-2017 18:43:50 America/Denver] PHP Notice:  Undefined index: attendees in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 29
+[08-Mar-2017 18:43:50 America/Denver] PHP Notice:  Use of undefined constant ccamember - assumed 'ccamember' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 30
+[08-Mar-2017 18:43:50 America/Denver] PHP Notice:  Undefined index: ccamember in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 30
+[08-Mar-2017 18:44:19 America/Denver] PHP Notice:  Use of undefined constant fname - assumed 'fname' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 23
+[08-Mar-2017 18:44:19 America/Denver] PHP Notice:  Undefined index: fname in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 23
+[08-Mar-2017 18:44:19 America/Denver] PHP Notice:  Use of undefined constant email - assumed 'email' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 24
+[08-Mar-2017 18:44:19 America/Denver] PHP Notice:  Use of undefined constant phone - assumed 'phone' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 26
+[08-Mar-2017 18:44:19 America/Denver] PHP Notice:  Undefined index: phone in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 26
+[08-Mar-2017 18:44:19 America/Denver] PHP Notice:  Use of undefined constant address - assumed 'address' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 27
+[08-Mar-2017 18:44:19 America/Denver] PHP Notice:  Undefined index: address in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 27
+[08-Mar-2017 18:44:19 America/Denver] PHP Notice:  Use of undefined constant address2 - assumed 'address2' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 28
+[08-Mar-2017 18:44:19 America/Denver] PHP Notice:  Undefined index: address2 in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 28
+[08-Mar-2017 18:44:19 America/Denver] PHP Notice:  Use of undefined constant attendees - assumed 'attendees' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 29
+[08-Mar-2017 18:44:19 America/Denver] PHP Notice:  Undefined index: attendees in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 29
+[08-Mar-2017 18:44:19 America/Denver] PHP Notice:  Use of undefined constant ccamember - assumed 'ccamember' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 30
+[09-Mar-2017 09:59:50 America/Denver] PHP Notice:  Use of undefined constant fname - assumed 'fname' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 23
+[09-Mar-2017 09:59:50 America/Denver] PHP Notice:  Undefined index: fname in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 23
+[09-Mar-2017 09:59:50 America/Denver] PHP Notice:  Use of undefined constant email - assumed 'email' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 24
+[09-Mar-2017 09:59:50 America/Denver] PHP Notice:  Undefined index: email in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 24
+[09-Mar-2017 09:59:50 America/Denver] PHP Notice:  Use of undefined constant phone - assumed 'phone' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 26
+[09-Mar-2017 09:59:50 America/Denver] PHP Notice:  Undefined index: phone in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 26
+[09-Mar-2017 09:59:50 America/Denver] PHP Notice:  Use of undefined constant address - assumed 'address' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 27
+[09-Mar-2017 09:59:50 America/Denver] PHP Notice:  Undefined index: address in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 27
+[09-Mar-2017 09:59:50 America/Denver] PHP Notice:  Use of undefined constant address2 - assumed 'address2' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 28
+[09-Mar-2017 09:59:50 America/Denver] PHP Notice:  Undefined index: address2 in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 28
+[09-Mar-2017 09:59:50 America/Denver] PHP Notice:  Use of undefined constant attendees - assumed 'attendees' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 29
+[09-Mar-2017 09:59:50 America/Denver] PHP Notice:  Undefined index: attendees in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 29
+[09-Mar-2017 09:59:50 America/Denver] PHP Notice:  Use of undefined constant ccamember - assumed 'ccamember' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 30
+[09-Mar-2017 09:59:50 America/Denver] PHP Notice:  Undefined index: ccamember in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 30
+[09-Mar-2017 09:59:54 America/Denver] PHP Notice:  Use of undefined constant fname - assumed 'fname' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 23
+[09-Mar-2017 09:59:54 America/Denver] PHP Notice:  Undefined index: fname in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 23
+[09-Mar-2017 09:59:54 America/Denver] PHP Notice:  Use of undefined constant email - assumed 'email' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 24
+[09-Mar-2017 09:59:54 America/Denver] PHP Notice:  Undefined index: email in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 24
+[09-Mar-2017 09:59:54 America/Denver] PHP Notice:  Use of undefined constant phone - assumed 'phone' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 26
+[09-Mar-2017 09:59:54 America/Denver] PHP Notice:  Undefined index: phone in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 26
+[09-Mar-2017 09:59:54 America/Denver] PHP Notice:  Use of undefined constant address - assumed 'address' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 27
+[09-Mar-2017 09:59:54 America/Denver] PHP Notice:  Undefined index: address in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 27
+[09-Mar-2017 09:59:54 America/Denver] PHP Notice:  Use of undefined constant address2 - assumed 'address2' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 28
+[09-Mar-2017 09:59:54 America/Denver] PHP Notice:  Undefined index: address2 in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 28
+[09-Mar-2017 09:59:54 America/Denver] PHP Notice:  Use of undefined constant attendees - assumed 'attendees' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 29
+[09-Mar-2017 09:59:54 America/Denver] PHP Notice:  Undefined index: attendees in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 29
+[09-Mar-2017 09:59:54 America/Denver] PHP Notice:  Use of undefined constant ccamember - assumed 'ccamember' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 30
+[09-Mar-2017 09:59:54 America/Denver] PHP Notice:  Undefined index: ccamember in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 30
+[09-Mar-2017 10:00:07 America/Denver] PHP Notice:  Use of undefined constant fname - assumed 'fname' in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 23
+[09-Mar-2017 10:00:07 America/Denver] PHP Notice:  Undefined index: fname in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 23
+[09-Mar-2017 10:00:07 America/Denver] PHP Notice:  Use of undefined constant email - assumed 'email' in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 24
+[09-Mar-2017 10:00:07 America/Denver] PHP Notice:  Undefined index: email in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 24
+[09-Mar-2017 10:00:07 America/Denver] PHP Notice:  Use of undefined constant phone - assumed 'phone' in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 26
+[09-Mar-2017 10:00:07 America/Denver] PHP Notice:  Undefined index: phone in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 26
+[09-Mar-2017 10:00:07 America/Denver] PHP Notice:  Use of undefined constant address - assumed 'address' in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 27
+[09-Mar-2017 10:00:07 America/Denver] PHP Notice:  Undefined index: address in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 27
+[09-Mar-2017 10:00:07 America/Denver] PHP Notice:  Use of undefined constant address2 - assumed 'address2' in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 28
+[09-Mar-2017 10:00:07 America/Denver] PHP Notice:  Undefined index: address2 in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 28
+[09-Mar-2017 10:00:07 America/Denver] PHP Notice:  Use of undefined constant attendees - assumed 'attendees' in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 29
+[09-Mar-2017 10:00:07 America/Denver] PHP Notice:  Undefined index: attendees in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 29
+[09-Mar-2017 10:00:07 America/Denver] PHP Notice:  Use of undefined constant ccamember - assumed 'ccamember' in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 30
+[09-Mar-2017 10:00:07 America/Denver] PHP Notice:  Undefined index: ccamember in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 30
+[13-Mar-2017 20:41:03 America/Denver] PHP Notice:  Use of undefined constant fname - assumed 'fname' in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 23
+[13-Mar-2017 20:41:03 America/Denver] PHP Notice:  Undefined index: fname in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 23
+[13-Mar-2017 20:41:03 America/Denver] PHP Notice:  Use of undefined constant email - assumed 'email' in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 24
+[13-Mar-2017 20:41:03 America/Denver] PHP Notice:  Undefined index: email in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 24
+[13-Mar-2017 20:41:03 America/Denver] PHP Notice:  Use of undefined constant phone - assumed 'phone' in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 26
+[13-Mar-2017 20:41:03 America/Denver] PHP Notice:  Undefined index: phone in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 26
+[13-Mar-2017 20:41:03 America/Denver] PHP Notice:  Use of undefined constant address - assumed 'address' in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 27
+[13-Mar-2017 20:41:03 America/Denver] PHP Notice:  Undefined index: address in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 27
+[13-Mar-2017 20:41:03 America/Denver] PHP Notice:  Use of undefined constant address2 - assumed 'address2' in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 28
+[13-Mar-2017 20:41:03 America/Denver] PHP Notice:  Undefined index: address2 in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 28
+[13-Mar-2017 20:41:03 America/Denver] PHP Notice:  Use of undefined constant attendees - assumed 'attendees' in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 29
+[13-Mar-2017 20:41:03 America/Denver] PHP Notice:  Undefined index: attendees in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 29
+[13-Mar-2017 20:41:03 America/Denver] PHP Notice:  Use of undefined constant ccamember - assumed 'ccamember' in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 30
+[13-Mar-2017 20:41:03 America/Denver] PHP Notice:  Undefined index: ccamember in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 30
+[13-Mar-2017 20:41:31 America/Denver] PHP Notice:  Use of undefined constant fname - assumed 'fname' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 23
+[13-Mar-2017 20:41:31 America/Denver] PHP Notice:  Undefined index: fname in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 23
+[13-Mar-2017 20:41:31 America/Denver] PHP Notice:  Use of undefined constant email - assumed 'email' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 24
+[13-Mar-2017 20:41:31 America/Denver] PHP Notice:  Undefined index: email in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 24
+[13-Mar-2017 20:41:31 America/Denver] PHP Notice:  Use of undefined constant phone - assumed 'phone' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 26
+[13-Mar-2017 20:41:31 America/Denver] PHP Notice:  Undefined index: phone in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 26
+[13-Mar-2017 20:41:31 America/Denver] PHP Notice:  Use of undefined constant address - assumed 'address' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 27
+[13-Mar-2017 20:41:31 America/Denver] PHP Notice:  Undefined index: address in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 27
+[13-Mar-2017 20:41:31 America/Denver] PHP Notice:  Use of undefined constant address2 - assumed 'address2' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 28
+[13-Mar-2017 20:41:31 America/Denver] PHP Notice:  Undefined index: address2 in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 28
+[13-Mar-2017 20:41:31 America/Denver] PHP Notice:  Use of undefined constant attendees - assumed 'attendees' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 29
+[13-Mar-2017 20:41:31 America/Denver] PHP Notice:  Undefined index: attendees in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 29
+[13-Mar-2017 20:41:31 America/Denver] PHP Notice:  Use of undefined constant ccamember - assumed 'ccamember' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 30
+[13-Mar-2017 20:41:31 America/Denver] PHP Notice:  Undefined index: ccamember in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 30
+[15-Mar-2017 19:28:51 America/Denver] PHP Notice:  Use of undefined constant fname - assumed 'fname' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 23
+[15-Mar-2017 19:28:51 America/Denver] PHP Notice:  Undefined index: fname in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 23
+[15-Mar-2017 19:28:51 America/Denver] PHP Notice:  Use of undefined constant email - assumed 'email' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 24
+[15-Mar-2017 19:28:51 America/Denver] PHP Notice:  Undefined index: email in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 24
+[15-Mar-2017 19:28:51 America/Denver] PHP Notice:  Use of undefined constant phone - assumed 'phone' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 26
+[15-Mar-2017 19:28:51 America/Denver] PHP Notice:  Undefined index: phone in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 26
+[15-Mar-2017 19:28:51 America/Denver] PHP Notice:  Use of undefined constant address - assumed 'address' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 27
+[15-Mar-2017 19:28:51 America/Denver] PHP Notice:  Undefined index: address in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 27
+[15-Mar-2017 19:28:51 America/Denver] PHP Notice:  Use of undefined constant address2 - assumed 'address2' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 28
+[15-Mar-2017 19:28:51 America/Denver] PHP Notice:  Undefined index: address2 in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 28
+[15-Mar-2017 19:28:51 America/Denver] PHP Notice:  Use of undefined constant attendees - assumed 'attendees' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 29
+[15-Mar-2017 19:28:51 America/Denver] PHP Notice:  Undefined index: attendees in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 29
+[15-Mar-2017 19:28:51 America/Denver] PHP Notice:  Use of undefined constant ccamember - assumed 'ccamember' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 30
+[15-Mar-2017 19:28:51 America/Denver] PHP Notice:  Undefined index: ccamember in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 30
+[18-Mar-2017 11:05:25 America/Denver] PHP Notice:  Use of undefined constant fname - assumed 'fname' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 23
+[18-Mar-2017 11:05:25 America/Denver] PHP Notice:  Undefined index: fname in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 23
+[18-Mar-2017 11:05:25 America/Denver] PHP Notice:  Use of undefined constant email - assumed 'email' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 24
+[18-Mar-2017 11:05:25 America/Denver] PHP Notice:  Undefined index: email in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 24
+[18-Mar-2017 11:05:25 America/Denver] PHP Notice:  Use of undefined constant phone - assumed 'phone' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 26
+[18-Mar-2017 11:05:25 America/Denver] PHP Notice:  Undefined index: phone in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 26
+[18-Mar-2017 11:05:25 America/Denver] PHP Notice:  Use of undefined constant address - assumed 'address' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 27
+[18-Mar-2017 11:05:25 America/Denver] PHP Notice:  Undefined index: address in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 27
+[18-Mar-2017 11:05:25 America/Denver] PHP Notice:  Use of undefined constant address2 - assumed 'address2' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 28
+[18-Mar-2017 11:05:25 America/Denver] PHP Notice:  Undefined index: address2 in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 28
+[18-Mar-2017 11:05:25 America/Denver] PHP Notice:  Use of undefined constant attendees - assumed 'attendees' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 29
+[18-Mar-2017 11:05:25 America/Denver] PHP Notice:  Undefined index: attendees in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 29
+[18-Mar-2017 11:05:25 America/Denver] PHP Notice:  Use of undefined constant ccamember - assumed 'ccamember' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 30
+[18-Mar-2017 11:05:25 America/Denver] PHP Notice:  Undefined index: ccamember in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 30
+[18-Mar-2017 11:05:59 America/Denver] PHP Notice:  Use of undefined constant fname - assumed 'fname' in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 23
+[18-Mar-2017 11:05:59 America/Denver] PHP Notice:  Undefined index: fname in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 23
+[18-Mar-2017 11:05:59 America/Denver] PHP Notice:  Use of undefined constant email - assumed 'email' in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 24
+[18-Mar-2017 11:05:59 America/Denver] PHP Notice:  Undefined index: email in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 24
+[18-Mar-2017 11:05:59 America/Denver] PHP Notice:  Use of undefined constant phone - assumed 'phone' in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 26
+[18-Mar-2017 11:05:59 America/Denver] PHP Notice:  Undefined index: phone in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 26
+[18-Mar-2017 11:05:59 America/Denver] PHP Notice:  Use of undefined constant address - assumed 'address' in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 27
+[18-Mar-2017 11:05:59 America/Denver] PHP Notice:  Undefined index: address in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 27
+[18-Mar-2017 11:05:59 America/Denver] PHP Notice:  Use of undefined constant address2 - assumed 'address2' in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 28
+[18-Mar-2017 11:05:59 America/Denver] PHP Notice:  Undefined index: address2 in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 28
+[18-Mar-2017 11:05:59 America/Denver] PHP Notice:  Use of undefined constant attendees - assumed 'attendees' in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 29
+[18-Mar-2017 11:05:59 America/Denver] PHP Notice:  Undefined index: attendees in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 29
+[18-Mar-2017 11:05:59 America/Denver] PHP Notice:  Use of undefined constant ccamember - assumed 'ccamember' in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 30
+[18-Mar-2017 11:05:59 America/Denver] PHP Notice:  Undefined index: ccamember in /home3/drjimcon/public_html/rpchiro/register/riverside_signup.php on line 30
+[23-Mar-2017 01:36:11 America/Denver] PHP Notice:  Use of undefined constant fname - assumed 'fname' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 23
+[23-Mar-2017 01:36:11 America/Denver] PHP Notice:  Undefined index: fname in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 23
+[23-Mar-2017 01:36:11 America/Denver] PHP Notice:  Use of undefined constant email - assumed 'email' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 24
+[23-Mar-2017 01:36:11 America/Denver] PHP Notice:  Undefined index: email in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 24
+[23-Mar-2017 01:36:11 America/Denver] PHP Notice:  Use of undefined constant phone - assumed 'phone' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 26
+[23-Mar-2017 01:36:11 America/Denver] PHP Notice:  Undefined index: phone in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 26
+[23-Mar-2017 01:36:11 America/Denver] PHP Notice:  Use of undefined constant address - assumed 'address' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 27
+[23-Mar-2017 01:36:11 America/Denver] PHP Notice:  Undefined index: address in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 27
+[23-Mar-2017 01:36:11 America/Denver] PHP Notice:  Use of undefined constant address2 - assumed 'address2' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 28
+[23-Mar-2017 01:36:11 America/Denver] PHP Notice:  Undefined index: address2 in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 28
+[23-Mar-2017 01:36:11 America/Denver] PHP Notice:  Use of undefined constant attendees - assumed 'attendees' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 29
+[23-Mar-2017 01:36:11 America/Denver] PHP Notice:  Undefined index: attendees in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 29
+[23-Mar-2017 01:36:11 America/Denver] PHP Notice:  Use of undefined constant ccamember - assumed 'ccamember' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 30
+[23-Mar-2017 01:36:11 America/Denver] PHP Notice:  Undefined index: ccamember in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 30
+[25-Mar-2017 12:07:41 America/Denver] PHP Notice:  Use of undefined constant fname - assumed 'fname' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 23
+[25-Mar-2017 12:07:41 America/Denver] PHP Notice:  Undefined index: fname in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 23
+[25-Mar-2017 12:07:41 America/Denver] PHP Notice:  Use of undefined constant email - assumed 'email' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 24
+[25-Mar-2017 12:07:41 America/Denver] PHP Notice:  Undefined index: email in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 24
+[25-Mar-2017 12:07:41 America/Denver] PHP Notice:  Use of undefined constant phone - assumed 'phone' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 26
+[25-Mar-2017 12:07:41 America/Denver] PHP Notice:  Undefined index: phone in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 26
+[25-Mar-2017 12:07:41 America/Denver] PHP Notice:  Use of undefined constant address - assumed 'address' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 27
+[25-Mar-2017 12:07:41 America/Denver] PHP Notice:  Undefined index: address in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 27
+[25-Mar-2017 12:07:41 America/Denver] PHP Notice:  Use of undefined constant address2 - assumed 'address2' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 28
+[25-Mar-2017 12:07:41 America/Denver] PHP Notice:  Undefined index: address2 in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 28
+[25-Mar-2017 12:07:41 America/Denver] PHP Notice:  Use of undefined constant attendees - assumed 'attendees' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 29
+[25-Mar-2017 12:07:41 America/Denver] PHP Notice:  Undefined index: attendees in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 29
+[25-Mar-2017 12:07:41 America/Denver] PHP Notice:  Use of undefined constant ccamember - assumed 'ccamember' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 30
+[25-Mar-2017 12:07:41 America/Denver] PHP Notice:  Undefined index: ccamember in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 30
+[29-Mar-2017 12:40:48 America/Denver] PHP Notice:  Use of undefined constant fname - assumed 'fname' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 23
+[29-Mar-2017 12:40:48 America/Denver] PHP Notice:  Undefined index: fname in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 23
+[29-Mar-2017 12:40:48 America/Denver] PHP Notice:  Use of undefined constant email - assumed 'email' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 24
+[29-Mar-2017 12:40:48 America/Denver] PHP Notice:  Undefined index: email in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 24
+[29-Mar-2017 12:40:48 America/Denver] PHP Notice:  Use of undefined constant phone - assumed 'phone' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 26
+[29-Mar-2017 12:40:48 America/Denver] PHP Notice:  Undefined index: phone in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 26
+[29-Mar-2017 12:40:48 America/Denver] PHP Notice:  Use of undefined constant address - assumed 'address' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 27
+[29-Mar-2017 12:40:48 America/Denver] PHP Notice:  Undefined index: address in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 27
+[29-Mar-2017 12:40:48 America/Denver] PHP Notice:  Use of undefined constant address2 - assumed 'address2' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 28
+[29-Mar-2017 12:40:48 America/Denver] PHP Notice:  Undefined index: address2 in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 28
+[29-Mar-2017 12:40:48 America/Denver] PHP Notice:  Use of undefined constant attendees - assumed 'attendees' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 29
+[29-Mar-2017 12:40:48 America/Denver] PHP Notice:  Undefined index: attendees in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 29
+[29-Mar-2017 12:40:48 America/Denver] PHP Notice:  Use of undefined constant ccamember - assumed 'ccamember' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 30
+[29-Mar-2017 12:40:48 America/Denver] PHP Notice:  Undefined index: ccamember in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 30
+[30-Mar-2017 20:01:18 America/Denver] PHP Notice:  Use of undefined constant fname - assumed 'fname' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 23
+[30-Mar-2017 20:01:18 America/Denver] PHP Notice:  Undefined index: fname in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 23
+[30-Mar-2017 20:01:18 America/Denver] PHP Notice:  Use of undefined constant email - assumed 'email' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 24
+[30-Mar-2017 20:01:18 America/Denver] PHP Notice:  Undefined index: email in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 24
+[30-Mar-2017 20:01:18 America/Denver] PHP Notice:  Use of undefined constant phone - assumed 'phone' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 26
+[30-Mar-2017 20:01:18 America/Denver] PHP Notice:  Undefined index: phone in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 26
+[30-Mar-2017 20:01:18 America/Denver] PHP Notice:  Use of undefined constant address - assumed 'address' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 27
+[30-Mar-2017 20:01:18 America/Denver] PHP Notice:  Undefined index: address in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 27
+[30-Mar-2017 20:01:18 America/Denver] PHP Notice:  Use of undefined constant address2 - assumed 'address2' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 28
+[30-Mar-2017 20:01:18 America/Denver] PHP Notice:  Undefined index: address2 in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 28
+[30-Mar-2017 20:01:18 America/Denver] PHP Notice:  Use of undefined constant attendees - assumed 'attendees' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 29
+[30-Mar-2017 20:01:18 America/Denver] PHP Notice:  Undefined index: attendees in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 29
+[30-Mar-2017 20:01:18 America/Denver] PHP Notice:  Use of undefined constant ccamember - assumed 'ccamember' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 30
+[30-Mar-2017 20:01:18 America/Denver] PHP Notice:  Undefined index: ccamember in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 30
+[01-Apr-2017 19:20:40 America/Denver] PHP Notice:  Use of undefined constant fname - assumed 'fname' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 23
+[01-Apr-2017 19:20:40 America/Denver] PHP Notice:  Undefined index: fname in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 23
+[01-Apr-2017 19:20:40 America/Denver] PHP Notice:  Use of undefined constant email - assumed 'email' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 24
+[01-Apr-2017 19:20:40 America/Denver] PHP Notice:  Undefined index: email in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 24
+[01-Apr-2017 19:20:40 America/Denver] PHP Notice:  Use of undefined constant phone - assumed 'phone' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 26
+[01-Apr-2017 19:20:40 America/Denver] PHP Notice:  Undefined index: phone in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 26
+[01-Apr-2017 19:20:40 America/Denver] PHP Notice:  Use of undefined constant address - assumed 'address' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 27
+[01-Apr-2017 19:20:40 America/Denver] PHP Notice:  Undefined index: address in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 27
+[01-Apr-2017 19:20:40 America/Denver] PHP Notice:  Use of undefined constant address2 - assumed 'address2' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 28
+[01-Apr-2017 19:20:40 America/Denver] PHP Notice:  Undefined index: address2 in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 28
+[01-Apr-2017 19:20:40 America/Denver] PHP Notice:  Use of undefined constant attendees - assumed 'attendees' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 29
+[01-Apr-2017 19:20:40 America/Denver] PHP Notice:  Undefined index: attendees in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 29
+[01-Apr-2017 19:20:40 America/Denver] PHP Notice:  Use of undefined constant ccamember - assumed 'ccamember' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 30
+[01-Apr-2017 19:20:40 America/Denver] PHP Notice:  Undefined index: ccamember in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 30
+[01-Apr-2017 21:19:26 America/Denver] PHP Notice:  Use of undefined constant fname - assumed 'fname' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 23
+[01-Apr-2017 21:19:26 America/Denver] PHP Notice:  Undefined index: fname in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 23
+[01-Apr-2017 21:19:26 America/Denver] PHP Notice:  Use of undefined constant email - assumed 'email' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 24
+[01-Apr-2017 21:19:26 America/Denver] PHP Notice:  Undefined index: email in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 24
+[01-Apr-2017 21:19:26 America/Denver] PHP Notice:  Use of undefined constant phone - assumed 'phone' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 26
+[01-Apr-2017 21:19:26 America/Denver] PHP Notice:  Undefined index: phone in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 26
+[01-Apr-2017 21:19:26 America/Denver] PHP Notice:  Use of undefined constant address - assumed 'address' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 27
+[01-Apr-2017 21:19:26 America/Denver] PHP Notice:  Undefined index: address in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 27
+[01-Apr-2017 21:19:26 America/Denver] PHP Notice:  Use of undefined constant address2 - assumed 'address2' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 28
+[01-Apr-2017 21:19:26 America/Denver] PHP Notice:  Undefined index: address2 in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 28
+[01-Apr-2017 21:19:26 America/Denver] PHP Notice:  Use of undefined constant attendees - assumed 'attendees' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 29
+[01-Apr-2017 21:19:26 America/Denver] PHP Notice:  Undefined index: attendees in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 29
+[01-Apr-2017 21:19:26 America/Denver] PHP Notice:  Use of undefined constant ccamember - assumed 'ccamember' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 30
+[01-Apr-2017 21:19:26 America/Denver] PHP Notice:  Undefined index: ccamember in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 30
+[03-Apr-2017 06:30:39 America/Denver] PHP Notice:  Use of undefined constant fname - assumed 'fname' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 23
+[03-Apr-2017 06:30:39 America/Denver] PHP Notice:  Undefined index: fname in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 23
+[03-Apr-2017 06:30:39 America/Denver] PHP Notice:  Use of undefined constant email - assumed 'email' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 24
+[03-Apr-2017 06:30:39 America/Denver] PHP Notice:  Undefined index: email in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 24
+[03-Apr-2017 06:30:39 America/Denver] PHP Notice:  Use of undefined constant phone - assumed 'phone' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 26
+[03-Apr-2017 06:30:39 America/Denver] PHP Notice:  Undefined index: phone in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 26
+[03-Apr-2017 06:30:39 America/Denver] PHP Notice:  Use of undefined constant address - assumed 'address' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 27
+[03-Apr-2017 06:30:39 America/Denver] PHP Notice:  Undefined index: address in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 27
+[03-Apr-2017 06:30:39 America/Denver] PHP Notice:  Use of undefined constant address2 - assumed 'address2' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 28
+[03-Apr-2017 06:30:39 America/Denver] PHP Notice:  Undefined index: address2 in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 28
+[03-Apr-2017 06:30:39 America/Denver] PHP Notice:  Use of undefined constant attendees - assumed 'attendees' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 29
+[03-Apr-2017 06:30:39 America/Denver] PHP Notice:  Undefined index: attendees in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 29
+[03-Apr-2017 06:30:39 America/Denver] PHP Notice:  Use of undefined constant ccamember - assumed 'ccamember' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 30
+[03-Apr-2017 06:30:39 America/Denver] PHP Notice:  Undefined index: ccamember in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 30
+[05-Apr-2017 10:47:37 America/Denver] PHP Notice:  Use of undefined constant fname - assumed 'fname' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 23
+[05-Apr-2017 10:47:37 America/Denver] PHP Notice:  Undefined index: fname in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 23
+[05-Apr-2017 10:47:37 America/Denver] PHP Notice:  Use of undefined constant email - assumed 'email' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 24
+[05-Apr-2017 10:47:37 America/Denver] PHP Notice:  Undefined index: email in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 24
+[05-Apr-2017 10:47:37 America/Denver] PHP Notice:  Use of undefined constant phone - assumed 'phone' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 26
+[05-Apr-2017 10:47:37 America/Denver] PHP Notice:  Undefined index: phone in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 26
+[05-Apr-2017 10:47:37 America/Denver] PHP Notice:  Use of undefined constant address - assumed 'address' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 27
+[05-Apr-2017 10:47:37 America/Denver] PHP Notice:  Undefined index: address in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 27
+[05-Apr-2017 10:47:37 America/Denver] PHP Notice:  Use of undefined constant address2 - assumed 'address2' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 28
+[05-Apr-2017 10:47:37 America/Denver] PHP Notice:  Undefined index: address2 in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 28
+[05-Apr-2017 10:47:37 America/Denver] PHP Notice:  Use of undefined constant attendees - assumed 'attendees' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 29
+[05-Apr-2017 10:47:37 America/Denver] PHP Notice:  Undefined index: attendees in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 29
+[05-Apr-2017 10:47:37 America/Denver] PHP Notice:  Use of undefined constant ccamember - assumed 'ccamember' in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 30
+[05-Apr-2017 10:47:37 America/Denver] PHP Notice:  Undefined index: ccamember in /home3/drjimcon/public_html/rpchiro/register/unsub.php on line 30
+[05-Apr-2017 15:27:52 America/Denver] PHP Notice:  Use of undefined constant fname - assumed 'fname' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 23
+[05-Apr-2017 15:27:52 America/Denver] PHP Notice:  Undefined index: fname in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 23
+[05-Apr-2017 15:27:52 America/Denver] PHP Notice:  Use of undefined constant email - assumed 'email' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 24
+[05-Apr-2017 15:27:52 America/Denver] PHP Notice:  Undefined index: email in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 24
+[05-Apr-2017 15:27:52 America/Denver] PHP Notice:  Use of undefined constant phone - assumed 'phone' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 26
+[05-Apr-2017 15:27:52 America/Denver] PHP Notice:  Undefined index: phone in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 26
+[05-Apr-2017 15:27:52 America/Denver] PHP Notice:  Use of undefined constant address - assumed 'address' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 27
+[05-Apr-2017 15:27:52 America/Denver] PHP Notice:  Undefined index: address in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 27
+[05-Apr-2017 15:27:52 America/Denver] PHP Notice:  Use of undefined constant address2 - assumed 'address2' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 28
+[05-Apr-2017 15:27:52 America/Denver] PHP Notice:  Undefined index: address2 in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 28
+[05-Apr-2017 15:27:52 America/Denver] PHP Notice:  Use of undefined constant attendees - assumed 'attendees' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 29
+[05-Apr-2017 15:27:52 America/Denver] PHP Notice:  Undefined index: attendees in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 29
+[05-Apr-2017 15:27:52 America/Denver] PHP Notice:  Use of undefined constant ccamember - assumed 'ccamember' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 30
+[05-Apr-2017 15:27:52 America/Denver] PHP Notice:  Undefined index: ccamember in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 30
+[06-Apr-2017 22:39:46 America/Denver] PHP Notice:  Use of undefined constant fname - assumed 'fname' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 23
+[06-Apr-2017 22:39:46 America/Denver] PHP Notice:  Undefined index: fname in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 23
+[06-Apr-2017 22:39:46 America/Denver] PHP Notice:  Use of undefined constant email - assumed 'email' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 24
+[06-Apr-2017 22:39:46 America/Denver] PHP Notice:  Undefined index: email in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 24
+[06-Apr-2017 22:39:46 America/Denver] PHP Notice:  Use of undefined constant phone - assumed 'phone' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 26
+[06-Apr-2017 22:39:46 America/Denver] PHP Notice:  Undefined index: phone in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 26
+[06-Apr-2017 22:39:46 America/Denver] PHP Notice:  Use of undefined constant address - assumed 'address' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 27
+[06-Apr-2017 22:39:46 America/Denver] PHP Notice:  Undefined index: address in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 27
+[06-Apr-2017 22:39:46 America/Denver] PHP Notice:  Use of undefined constant address2 - assumed 'address2' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 28
+[06-Apr-2017 22:39:46 America/Denver] PHP Notice:  Undefined index: address2 in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 28
+[06-Apr-2017 22:39:46 America/Denver] PHP Notice:  Use of undefined constant attendees - assumed 'attendees' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 29
+[06-Apr-2017 22:39:46 America/Denver] PHP Notice:  Undefined index: attendees in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 29
+[06-Apr-2017 22:39:46 America/Denver] PHP Notice:  Use of undefined constant ccamember - assumed 'ccamember' in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 30
+[06-Apr-2017 22:39:46 America/Denver] PHP Notice:  Undefined index: ccamember in /home3/drjimcon/public_html/rpchiro/register/santabarbara.php on line 30
+[08-Apr-2017 02:25:23 America/Denver] PHP Notice:  Use of undefined constant fname - assumed 'fname' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 23
+[08-Apr-2017 02:25:23 America/Denver] PHP Notice:  Undefined index: fname in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 23
+[08-Apr-2017 02:25:23 America/Denver] PHP Notice:  Use of undefined constant email - assumed 'email' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 24
+[08-Apr-2017 02:25:23 America/Denver] PHP Notice:  Undefined index: email in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 24
+[08-Apr-2017 02:25:23 America/Denver] PHP Notice:  Use of undefined constant phone - assumed 'phone' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 26
+[08-Apr-2017 02:25:23 America/Denver] PHP Notice:  Undefined index: phone in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 26
+[08-Apr-2017 02:25:23 America/Denver] PHP Notice:  Use of undefined constant address - assumed 'address' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 27
+[08-Apr-2017 02:25:23 America/Denver] PHP Notice:  Undefined index: address in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 27
+[08-Apr-2017 02:25:23 America/Denver] PHP Notice:  Use of undefined constant address2 - assumed 'address2' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 28
+[08-Apr-2017 02:25:23 America/Denver] PHP Notice:  Undefined index: address2 in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 28
+[08-Apr-2017 02:25:23 America/Denver] PHP Notice:  Use of undefined constant attendees - assumed 'attendees' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 29
+[08-Apr-2017 02:25:23 America/Denver] PHP Notice:  Undefined index: attendees in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 29
+[08-Apr-2017 02:25:23 America/Denver] PHP Notice:  Use of undefined constant ccamember - assumed 'ccamember' in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 30
+[08-Apr-2017 02:25:23 America/Denver] PHP Notice:  Undefined index: ccamember in /home3/drjimcon/public_html/rpchiro/register/northbay.php on line 30

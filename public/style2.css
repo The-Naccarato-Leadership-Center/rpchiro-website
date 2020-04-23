@@ -1,0 +1,224 @@
+* {
+    box-sizing: border-box;
+}
+
+  body {background-color: #808B96;}
+
+  .container {
+    background-color: #FFFFFF;
+    border: thin solid #000000;
+  box-shadow: 0 0 15px 6px #394D6C;
+  max-width: 1200px;
+  margin: auto;
+  }
+
+[class*="col-"] {
+    width: 100%;
+}
+
+@media only screen and (min-width: 768px) {
+  .col-1 {width: 25%;}
+  .col-2 {width: 50%;}
+  .col-3 {width: 75%;}
+  .col-4 {width: 100%;}
+  .menu {display: none;}
+  .mobilepic {display: none; text-align:center; margin-left:auto; margin-right:auto; max-width: 50px;}
+
+ }
+
+ .mobilepic {
+  margin: auto;
+  text-align: center;
+  max-width: 60%;
+  padding-bottom: 20px;
+ }
+
+ @media only screen and (max-width: 768px) {
+  table {
+    display: none;
+  }
+  .sidebar {
+    display: none;
+  }
+
+  .title {
+    width: 100%;
+  }
+ }
+
+  [class*="col-"] {
+    float: left;
+    padding: 15px;
+}
+
+
+.row::after {
+    content: "";
+    clear: both;
+    display: flex;
+}
+
+.footer {
+  text-align: center;
+}
+
+.navigation {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+    font-size: 1em;
+  color: #FFFFFF;
+  text-decoration: underline;
+  line-height: 1.5;
+  font-weight: bold;
+}
+
+h1{
+  margin:10px;
+  font-family: "Times New Roman", Times, serif;
+    font-size: 2em;
+  color: #A98C4B;
+  text-decoration: none;
+  line-height: 1.5;
+  font-weight:bold;
+}
+
+h2{
+    margin:10px;
+  font-family: Georgia, serif;
+    font-size: 1.25em;
+  color: #001E4C;
+  text-decoration: none;
+  font-weight:bold;
+  line-height: 1.5;
+}
+
+p{
+       margin:10px;
+
+       font-family: Georgia, serif;
+       font-size: 1em;
+       color: #06143F;
+       text-decoration: none;
+     text-align: justify;
+     line-height: 2;
+     padding-bottom: 20px;
+}
+
+ul{
+         margin:10px;
+
+       font-family: Georgia, serif;
+       font-size: 1em;
+       color: #06143F;
+       text-decoration: none;
+     text-align: justify;
+     line-height: 2;
+     padding-bottom: 20px;
+}
+
+ol{
+         margin:10px;
+
+       font-family: Georgia, serif;
+       font-size: 1em;
+       color: #06143F;
+       text-decoration: none;
+     text-align: justify;
+     line-height: 2;
+     padding-bottom: 20px;
+}
+
+.checklist{
+         margin:10px;
+
+       font-family: Georgia, serif;
+       font-size: 1em;
+       color: #06143F;
+       text-decoration: none;
+     text-align: justify;
+     line-height: 2;
+     padding-bottom: 20px;
+     list-style-image: url(https://www.rpchiro.com/images/coaching/s_square.png);
+}
+
+.testimonials{
+    margin: 10px;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1em;
+    color: #FFFFFF;
+    font-weight: normal;
+  font-style: italic;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 1.2em;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  text-decoration: underline;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+.panel {
+  padding: 0 18px;
+  display: none;
+  background-color: white;
+  overflow: hidden;
+}
+
+.sidenav .accordion {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 1.5em;
+  transition: 0.4s;
+}
+
+.menu{
+  font-size: 2em;
+  cursor: pointer;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+  background-color: white;
+  padding: 5px;
+  width: 100%;
+}
+
+figure {
+    width:25%;
+    float:left;
+    margin:0px;
+    text-align:center;
+    padding:0px;
+}

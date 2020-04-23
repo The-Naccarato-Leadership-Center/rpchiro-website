@@ -1,0 +1,3 @@
+[17-Mar-2017 11:40:49 America/Denver] PHP Warning:  Unable to connect to server (localhost) in mysql_db::StartConn in /home3/drjimcon/public_html/rpchiro/php/func.inc.php on line 63
+[28-Mar-2017 17:12:22 America/Denver] PHP Warning:  Unable to connect to server (localhost) in mysql_db::StartConn in /home3/drjimcon/public_html/rpchiro/php/func.inc.php on line 63
+[31-Mar-2017 11:39:12 America/Denver] PHP Warning:  Unable to connect to server (localhost) in mysql_db::StartConn in /home3/drjimcon/public_html/rpchiro/php/func.inc.php on line 63
